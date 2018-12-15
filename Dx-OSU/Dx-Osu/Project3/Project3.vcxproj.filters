@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Shader">
+      <UniqueIdentifier>{b0f7a4da-b143-471a-9d5b-9f7ac4fdf358}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library">
+      <UniqueIdentifier>{33efec38-5a67-42e1-b5fb-c4e7e346a44c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sup_Library">
+      <UniqueIdentifier>{9b8b3663-dda5-4cf1-8797-b9faea91939f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sup_Library\Cpp">
+      <UniqueIdentifier>{f9bf7bf5-1596-43be-b390-037863b5451f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sup_Library\Header">
+      <UniqueIdentifier>{0e511c6a-afa7-4012-974f-0d2b83cdc161}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Library">
+      <UniqueIdentifier>{067309ec-37ad-4f95-8917-3129456678c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Library\Cpp">
+      <UniqueIdentifier>{378b1d4e-b02c-4ff7-b292-e6a3b1907108}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Header">
+      <UniqueIdentifier>{e6b0505a-896b-43b9-b3de-97d798bd01da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Cpp">
+      <UniqueIdentifier>{2fceb38e-d9b3-498d-b0e9-8a230a9721b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Cpp\System">
+      <UniqueIdentifier>{3a9996f2-b0de-4710-9f7f-d048ffc2874a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Cpp\System\Graphic">
+      <UniqueIdentifier>{e2e36eb3-bd60-4af2-92c6-1f8948d5b263}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Cpp\System\Graphic\ModelClass">
+      <UniqueIdentifier>{a9834cff-f0b0-4956-b830-06dd5b5bccbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Cpp\System\Graphic\Bitmap">
+      <UniqueIdentifier>{be080ee9-bc12-47ab-bb3e-469a6caa0995}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Cpp\System\Input">
+      <UniqueIdentifier>{3ee54e58-0eb9-4613-922a-76b04e26cfcc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Header\System">
+      <UniqueIdentifier>{733709ac-ec6f-4647-82e6-c522eedb19bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Header\System\Graphic">
+      <UniqueIdentifier>{6e7dc8ce-985c-42dd-967a-9edb0ecfd69c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Header\System\Graphic\ModelClass">
+      <UniqueIdentifier>{ecae7bd2-f2da-47de-839c-758c7b0053c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Header\System\Graphic\Bitmap">
+      <UniqueIdentifier>{95537d80-d638-4eb9-a7ab-7e96fd5bff5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Header\System\Input">
+      <UniqueIdentifier>{02f18095-ea5d-4ff3-ad0b-7582f9ceebe3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Cpp\System\Text">
+      <UniqueIdentifier>{2f4694c2-5222-4e4b-b729-a1934af8176f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Header\System\Text">
+      <UniqueIdentifier>{e0f66137-6c7f-4ef5-a75f-fbec7a0375e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source File">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header File">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Game Library\Header">
+      <UniqueIdentifier>{054fc64d-2c8c-42de-b89e-a3b4860b5690}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Cpp\System\Graphic\ShapeClass">
+      <UniqueIdentifier>{491eb5f9-9868-4e14-a2df-27fd4d734523}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Header\System\Graphic\ShapeClass">
+      <UniqueIdentifier>{fdac6b02-dbb5-4d67-9ab4-c598cf132cdc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Cpp\System\Sound">
+      <UniqueIdentifier>{018a6b3d-56bd-4316-88d4-79a5d3d0ef73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Header\System\Sound">
+      <UniqueIdentifier>{af823dac-8feb-47d8-beac-b7cf3fc8f9d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Header\System\Library">
+      <UniqueIdentifier>{68950ef9-235b-4228-82b6-ae0ba98c0e72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX Library\Cpp\System\Library">
+      <UniqueIdentifier>{6c0c4b1f-625c-4764-aab0-8cf7c64ab3c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Design">
+      <UniqueIdentifier>{021dbf52-6d11-4b44-9fa6-721f52248e26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Design\Cpp">
+      <UniqueIdentifier>{48acd65a-a94a-4096-ba9a-c1c33fc5fac3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Design\Header">
+      <UniqueIdentifier>{63629e54-87b5-411f-9c92-a642cdc76aed}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D3DClass.cpp">
+      <Filter>DirectX Library\Cpp\System\Graphic</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraClass.cpp">
+      <Filter>DirectX Library\Cpp\System\Graphic</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelClass.cpp">
+      <Filter>DirectX Library\Cpp\System\Graphic</Filter>
+    </ClCompile>
+    <ClCompile Include="System.cpp">
+      <Filter>DirectX Library\Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureShaderClass.cpp">
+      <Filter>DirectX Library\Cpp\System\Graphic\ModelClass</Filter>
+    </ClCompile>
+    <ClCompile Include="LightShaderClass.cpp">
+      <Filter>DirectX Library\Cpp\System\Graphic\ModelClass</Filter>
+    </ClCompile>
+    <ClCompile Include="LightClass.cpp">
+      <Filter>DirectX Library\Cpp\System\Graphic\ModelClass</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source File</Filter>
+    </ClCompile>
+    <ClCompile Include="BitmapClass.cpp">
+      <Filter>DirectX Library\Cpp\System\Graphic\Bitmap</Filter>
+    </ClCompile>
+    <ClCompile Include="InputClass.cpp">
+      <Filter>DirectX Library\Cpp\System\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="TextClass.cpp">
+      <Filter>DirectX Library\Cpp\System\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="FontShader.cpp">
+      <Filter>DirectX Library\Cpp\System\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="FontClass.cpp">
+      <Filter>DirectX Library\Cpp\System\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="RectClass.cpp">
+      <Filter>DirectX Library\Cpp\System\Graphic\ShapeClass</Filter>
+    </ClCompile>
+    <ClCompile Include="LineClass.cpp">
+      <Filter>DirectX Library\Cpp\System\Graphic\ShapeClass</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeShaderClass.cpp">
+      <Filter>DirectX Library\Cpp\System\Graphic\ShapeClass</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleClass.cpp">
+      <Filter>DirectX Library\Cpp\System\Graphic\ShapeClass</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureClass.cpp">
+      <Filter>DirectX Library\Cpp\System\Graphic\Bitmap</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicClass.cpp">
+      <Filter>DirectX Library\Cpp\System</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundClass.cpp">
+      <Filter>DirectX Library\Cpp\System\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="FpsClass.cpp">
+      <Filter>DirectX Library\Cpp\System\Library</Filter>
+    </ClCompile>
+    <ClCompile Include="TimerClass.cpp">
+      <Filter>DirectX Library\Cpp\System\Library</Filter>
+    </ClCompile>
+    <ClCompile Include="CpuClass.cpp">
+      <Filter>DirectX Library\Cpp\System\Library</Filter>
+    </ClCompile>
+    <ClCompile Include="UserInterface.cpp">
+      <Filter>Design\Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="MusicReader.cpp">
+      <Filter>Game Library\Cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Main.h">
+      <Filter>Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraClass.h">
+      <Filter>DirectX Library\Header\System\Graphic</Filter>
+    </ClInclude>
+    <ClInclude Include="D3DClass.h">
+      <Filter>DirectX Library\Header\System\Graphic</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicClass.h">
+      <Filter>DirectX Library\Header\System</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureShaderClass.h">
+      <Filter>DirectX Library\Header\System\Graphic\ModelClass</Filter>
+    </ClInclude>
+    <ClInclude Include="LightShaderClass.h">
+      <Filter>DirectX Library\Header\System\Graphic\ModelClass</Filter>
+    </ClInclude>
+    <ClInclude Include="LightClass.h">
+      <Filter>DirectX Library\Header\System\Graphic\ModelClass</Filter>
+    </ClInclude>
+    <ClInclude Include="BitmapClass.h">
+      <Filter>DirectX Library\Header\System\Graphic\Bitmap</Filter>
+    </ClInclude>
+    <ClInclude Include="InputClass.h">
+      <Filter>DirectX Library\Header\System\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="FontClass.h">
+      <Filter>DirectX Library\Header\System\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="FontShader.h">
+      <Filter>DirectX Library\Header\System\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="TextClass.h">
+      <Filter>DirectX Library\Header\System\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="System.h">
+      <Filter>DirectX Library\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelClass.h">
+      <Filter>DirectX Library\Header\System\Graphic</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureClass.h">
+      <Filter>DirectX Library\Header\System\Graphic\Bitmap</Filter>
+    </ClInclude>
+    <ClInclude Include="RectClass.h">
+      <Filter>DirectX Library\Header\System\Graphic\ShapeClass</Filter>
+    </ClInclude>
+    <ClInclude Include="LineClass.h">
+      <Filter>DirectX Library\Header\System\Graphic\ShapeClass</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeShaderClass.h">
+      <Filter>DirectX Library\Header\System\Graphic\ShapeClass</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleClass.h">
+      <Filter>DirectX Library\Header\System\Graphic\ShapeClass</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundClass.h">
+      <Filter>DirectX Library\Header\System\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="FpsClass.h">
+      <Filter>DirectX Library\Header\System\Library</Filter>
+    </ClInclude>
+    <ClInclude Include="TimerClass.h">
+      <Filter>DirectX Library\Header\System\Library</Filter>
+    </ClInclude>
+    <ClInclude Include="CpuClass.h">
+      <Filter>DirectX Library\Header\System\Library</Filter>
+    </ClInclude>
+    <ClInclude Include="UserInterface.h">
+      <Filter>Design\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="MusicReader.h">
+      <Filter>Game Library\Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="seafloor.dds">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="C:\Users\aoika\Desktop\Block.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="data\cube.txt">
+      <Filter>Resource</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="color.ps">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="color.vs">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Font.ps">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Font.vs">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="light.ps">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Light.vs">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Texture.ps">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Texture.vs">
+      <Filter>Shader</Filter>
+    </None>
+  </ItemGroup>
+</Project>
